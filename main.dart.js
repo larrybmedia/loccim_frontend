@@ -93479,7 +93479,7 @@ r.toString
 s=A.ll(new A.aur(),null,t.z)
 A.eD(r,!1).fK(s)},
 I(a){var s,r,q=null,p=A.aE9(q,q,new A.p9("assets/logo.png",q,q))
-p=A.iP(A.b([A.pY(q,q,B.J4,q,q,this.gakG(),q,q,"Contact Us")],t.p),B.a4,q,2,q,new A.bi(B.HL,new A.q_(p,q,q,new A.aut(),q,q,q,B.bG,q,B.h4,B.z,B.bI,!1,q),q),B.ZC,12)
+p=A.iP(A.b([A.pY(q,q,B.J4,q,q,this.gakG(),q,q,"Contact Us")],t.p),B.a4,q,2,q,new A.bi(B.HL,new A.q_(p,q,q,new A.aut(),q,q,q,B.bG,q,B.h4,B.z,B.bI,!1,q),q),B.ZB,12)
 s=this.d
 r=B.Mv[s]
 return A.io(p,q,r,new A.yV(B.LX,new A.auu(this),s,8,B.CQ,B.j,B.a4,B.bZ,q))}}
@@ -93500,7 +93500,7 @@ A.KI.prototype={
 Bf(a,b,c){var s=null
 return A.cn(A.b([A.a3S(s,new A.p9(a,s,s),s,50),B.fE,A.by(b,s,s,s,s,B.cK,B.aW,s),A.by(c,s,s,s,s,B.WO,B.aW,s)],t.p),B.H,B.y,B.A)},
 I(a){var s=this,r=null,q="assets/images/go.jpg",p="Coming Soon",o=t.p
-return A.io(A.iP(r,B.bl,r,r,B.j,r,B.ZJ,r),r,A.akN(A.cn(A.b([B.a_n,B.cj,B.a_k,B.mj,s.Bf(q,"Prophet Adeniyi P. Olowoporoku","General Overseer"),B.TL,A.f3(A.b([A.fg(s.Bf("assets/images/mrs_go.jpg","Pastor (Mrs) Olowoporoku","Wife of the General Overseer"),1),A.fg(s.Bf(q,p,"Associate Pastor"),1),A.fg(s.Bf(q,p,"Church Secretary"),1)],o),B.H,B.vI,B.A,0)],o),B.H,B.y,B.A),r,B.a3,B.dP,r,B.a1),r)}}
+return A.io(A.iP(r,B.bl,r,r,B.j,r,B.ZI,r),r,A.akN(A.cn(A.b([B.a_n,B.cj,B.a_k,B.mj,s.Bf(q,"Prophet Adeniyi P. Olowoporoku","General Overseer"),B.TK,A.f3(A.b([A.fg(s.Bf("assets/images/mrs_go.jpg","Pastor (Mrs) Olowoporoku","Wife of the General Overseer"),1),A.fg(s.Bf(q,p,"Associate Pastor"),1),A.fg(s.Bf(q,p,"Church Secretary"),1)],o),B.H,B.vI,B.A,0)],o),B.H,B.y,B.A),r,B.a3,B.dP,r,B.a1),r)}}
 A.yI.prototype={
 af(){return new A.FD()}}
 A.FD.prototype={
@@ -93544,7 +93544,7 @@ var $async$MS=A.x(function(a,b){if(a===1)return A.z(b,r)
 for(;;)switch(s){case 0:q.ae(new A.aoJ(q))
 return A.A(null,r)}})
 return A.B($async$MS,r)},
-I(a){var s=null,r=A.iP(s,B.a4,s,s,B.j,s,B.ZA,s),q=this.d
+I(a){var s=null,r=A.iP(s,B.a4,s,s,B.j,s,B.a_e,s),q=this.d
 q===$&&A.a()
 return A.io(r,s,A.AT(new A.aoI(this),q,t.j),s)}}
 A.aoJ.prototype={
@@ -93584,7 +93584,7 @@ $S:142}
 A.aoF.prototype={
 $3(a,b,c){A.mt().$1("IMAGE ERROR: "+A.j(b))
 A.mt().$1("IMAGE URL: "+A.j(J.ee(this.a,"flyer")))
-return B.TH},
+return B.TM},
 $S:227}
 A.pc.prototype={
 af(){return new A.FK()}}
@@ -93667,7 +93667,7 @@ if(p==null)p="Pastor Peter A. Olowoporoku"
 p=A.by(p,n,n,n,n,A.f5(n,n,B.cz,n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n)
 l=l.h(m,"price")
 o=t.p
-return A.jO(A.cn(A.b([r,new A.bi(B.hF,A.cn(A.b([q,B.TM,p,B.mk,A.by(l==null?"Free":l,n,n,n,n,B.Y0,n,n)],o),B.a6,B.y,B.A),n)],o),B.H,B.y,B.A),n,n,2,n,new A.bS(k,B.n))},
+return A.jO(A.cn(A.b([r,new A.bi(B.hF,A.cn(A.b([q,B.TL,p,B.mk,A.by(l==null?"Free":l,n,n,n,n,B.Y0,n,n)],o),B.a6,B.y,B.A),n)],o),B.H,B.y,B.A),n,n,2,n,new A.bS(k,B.n))},
 $S:50}
 A.apc.prototype={
 $2(a,b){return B.cy},
@@ -93708,9 +93708,9 @@ kI(a,b,c,d,e){var s=null,r=A.cu(12),q=A.a3S(A.aG(38,a.D()>>>16&255,a.D()>>>8&255
 return A.jO(A.aJ7(B.HT,q,c,A.by(d,s,s,s,s,s,s,s),p,B.Js),s,s,2,s,new A.bS(r,B.n))},
 Ah(a,b,c,d){var s=null,r=A.a6X(s,s,A.aG(B.d.aO(25.5),c.D()>>>16&255,c.D()>>>8&255,c.D()&255),s,s,s,0,s,s,c,s,s,B.oy,s,new A.bS(A.cu(12),B.n),s,s,s,s,s)
 return new A.bi(B.HC,A.aI8(A.uC(b,s,s,s),A.by(a,s,s,s,s,s,s,s),d,r),s)},
-I(a){var s=this,r=null,q="Phone Lines",p="Pastoral Line",o="+234 810 864 7938",n="Office Line",m="+234 803 123 4567",l="Messaging",k="WhatsApp Chat",j="Instant response support",i="Email Support",h="support@loccim.org",g=A.bf(a,r,t.w).w,f=A.iP(r,B.a4,r,r,B.j,r,B.ZH,r),e=t.p,d=s.gapW(),c=s.gacT()
+I(a){var s=this,r=null,q="Phone Lines",p="Pastoral Line",o="+234 810 864 7938",n="Office Line",m="+234 803 123 4567",l="Messaging",k="WhatsApp Chat",j="Instant response support",i="Email Support",h="support@loccim.org",g=A.bf(a,r,t.w).w,f=A.iP(r,B.a4,r,r,B.j,r,B.ZG,r),e=t.p,d=s.gapW(),c=s.gacT()
 g=g.a.a>800?A.f3(A.b([A.fg(A.cn(A.b([s.vu(q,B.pd),B.cj,s.kI(B.bh,B.d3,new A.a4t(s),o,p),s.kI(B.bh,B.d3,new A.a4u(s),m,n),s.kI(B.bh,B.d3,new A.a4v(s),"+234 812 555 8888","Ministry Line"),s.kI(B.bh,B.d3,new A.a4w(s),"+234 809 444 2222","Support Line")],e),B.a6,B.y,B.A),1),B.TE,A.fg(A.cn(A.b([s.vu(l,B.hY),B.cj,s.kI(B.bh,B.hY,d,j,k),s.kI(B.ce,B.pg,c,h,i)],e),B.a6,B.y,B.A),1)],e),B.a6,B.y,B.A,0):A.cn(A.b([s.vu(q,B.pd),B.cj,s.kI(B.bh,B.d3,new A.a4x(s),o,p),s.kI(B.bh,B.d3,new A.a4y(s),m,n),B.cI,s.vu(l,B.hY),B.cj,s.kI(B.bh,B.hY,d,j,k),s.kI(B.ce,B.pg,c,h,i)],e),B.H,B.y,B.A)
-return A.io(f,B.dF,A.akN(A.cn(A.b([B.ZB,B.cI,g,B.mj,s.vu("Social Media",B.pj),B.cj,s.Ah("YouTube Channel",B.f3,B.ce,new A.a4z(s)),s.Ah("Facebook Page",B.Iz,B.cE,new A.a4A(s)),s.Ah("Instagram",B.It,B.vS,new A.a4B(s)),s.Ah("TikTok",B.IG,B.l,new A.a4C(s)),B.TJ,A.dC(r,B.ZO,B.r,r,r,new A.d7(A.aG(20,B.a4.D()>>>16&255,B.a4.D()>>>8&255,B.a4.D()&255),r,r,A.cu(12),r,r,B.aC),r,r,r,B.cZ,r,r,r)],e),B.H,B.y,B.A),r,B.a3,B.dP,r,B.a1),r)}}
+return A.io(f,B.dF,A.akN(A.cn(A.b([B.ZA,B.cI,g,B.mj,s.vu("Social Media",B.pj),B.cj,s.Ah("YouTube Channel",B.f3,B.ce,new A.a4z(s)),s.Ah("Facebook Page",B.Iz,B.cE,new A.a4A(s)),s.Ah("Instagram",B.It,B.vS,new A.a4B(s)),s.Ah("TikTok",B.IG,B.l,new A.a4C(s)),B.TI,A.dC(r,B.ZN,B.r,r,r,new A.d7(A.aG(20,B.a4.D()>>>16&255,B.a4.D()>>>8&255,B.a4.D()&255),r,r,A.cu(12),r,r,B.aC),r,r,r,B.cZ,r,r,r)],e),B.H,B.y,B.A),r,B.a3,B.dP,r,B.a1),r)}}
 A.a4t.prototype={
 $0(){return this.a.lF("+2348108647938")},
 $S:0}
@@ -93793,7 +93793,7 @@ j=A.b([],t.wi)
 i=$.a8
 s.fK(new A.C0(new A.arv(g,b),r,!0,0.5625,B.j,h,B.Ry,h,h,q.ry.e,!0,!0,h,h,h,!1,h,"Close Bottom Sheet",new A.bM(B.aa,p),"Scrim",h,h,h,o,A.aA(t.f9),new A.bc(h,t.Ts),new A.bc(h,t.A),new A.qA(),h,0,new A.aP(new A.a5(n,m),l),k,j,h,B.ft,new A.bM(h,p),new A.aP(new A.a5(i,m),l),new A.aP(new A.a5(i,m),l),t.Fu))},
 I(a){var s=null
-return A.io(A.iP(s,B.bl,s,s,B.j,s,B.a_a,s),s,A.AT(new A.arz(this),this.C4(),t.j),s)}}
+return A.io(A.iP(s,B.bl,s,s,B.j,s,B.a_9,s),s,A.AT(new A.arz(this),this.C4(),t.j),s)}}
 A.arv.prototype={
 $1(a){var s,r,q,p=null,o=t.p,n=A.b([A.fb(A.dC(p,p,B.r,p,p,new A.d7(B.nK,p,p,A.cu(10),p,p,B.aC),p,5,B.HH,p,p,p,50),p,p)],o),m=this.a
 if(m.length!==0&&m!=="null"){m=B.c.bf(m,"http")?m:"https://loccim-backend.onrender.com"+m
@@ -93871,7 +93871,7 @@ return A.b([],t.s)},
 akI(a,b,c,d){var s=J.aT(b),r=this.TW(s.h(b,"images")),q=s.h(b,"image_url")
 A.b3e(new A.asK(d,c,r,q==null?"":q),a,t.z)},
 I(a){var s=null
-return new A.zT(2,A.io(A.iP(s,B.bl,B.Us,s,B.j,s,B.ZR,s),s,A.AT(new A.asN(this),this.C5(),t.j),s),s)},
+return new A.zT(2,A.io(A.iP(s,B.bl,B.Us,s,B.j,s,B.ZQ,s),s,A.AT(new A.asN(this),this.C5(),t.j),s),s)},
 Qp(a,b){var s=null,r=a.length
 if(r===0)return A.fb(A.by(b?"No video clips found.":"No image pictures found.",s,s,s,s,B.VA,s,s),s,s)
 return A.aDw(B.TP,new A.asE(this,a,b),r,B.hF)}}
@@ -93988,18 +93988,18 @@ return A.B($async$xi,r)},
 l(){A.mt().$1("\ud83d\udd0c Socket connection closed.")
 this.aB()},
 I(a){var s,r,q,p=this,o=null,n=A.bf(a,o,t.w).w.a.a>800?3:2,m=A.aG(64,B.l.D()>>>16&255,B.l.D()>>>8&255,B.l.D()&255),l=A.cu(20),k=A.dC(o,B.a_j,B.r,o,o,new A.d7(B.ce,o,o,A.cu(20),o,o,B.aC),o,o,o,B.HO,o,o,o),j=A.a6X(o,o,B.j,o,o,o,o,o,o,B.bl,o,o,o,o,o,o,o,o,o,o)
-j=A.aI8(B.Jc,B.ZG,p.d.length===0?o:new A.atd(p,a),j)
+j=A.aI8(B.Jc,B.ZF,p.d.length===0?o:new A.atd(p,a),j)
 s=A.aVM(o,o,o,o,o,o,o,o,o,B.j,o,o,o,o,o,B.CF,o,o,o,o)
 r=t.p
-l=A.dC(o,new A.bi(B.hE,A.cn(A.b([k,B.cI,B.ZE,B.el,B.ZW,B.cI,A.f3(A.b([j,B.AU,new A.P4(!0,new A.ate(a),o,o,o,s,o,o,!1,o,!0,o,new A.X_(B.a_8,B.Jw,s,o,o),o)],r),B.H,B.y,B.A,0)],r),B.a6,B.fm,B.A),o),B.r,o,o,new A.d7(o,B.GV,o,l,o,o,B.aC),o,320,o,o,o,o,1/0)
+l=A.dC(o,new A.bi(B.hE,A.cn(A.b([k,B.cI,B.ZD,B.el,B.ZV,B.cI,A.f3(A.b([j,B.AU,new A.P4(!0,new A.ate(a),o,o,o,s,o,o,!1,o,!0,o,new A.X_(B.a_7,B.Jw,s,o,o),o)],r),B.H,B.y,B.A,0)],r),B.a6,B.fm,B.A),o),B.r,o,o,new A.d7(o,B.GV,o,l,o,o,B.aC),o,320,o,o,o,o,1/0)
 if(p.e)k="Loading livestream..."
 else{k=p.d
-if(k.length===0)k="No active livestream"}k=A.jO(A.aJ7(o,B.Jr,o,A.by(k,2,B.ay,o,o,o,o,o),B.ZT,o),o,o,o,o,o)
+if(k.length===0)k="No active livestream"}k=A.jO(A.aJ7(o,B.Jr,o,A.by(k,2,B.ay,o,o,o,o,o),B.ZS,o),o,o,o,o,o)
 j=p.oO(a,B.nH,B.ph,B.vU,new A.atf(a),"Prayer Request")
 s=p.oO(a,B.nR,B.IN,B.ih,new A.atg(a),"Testimonies")
 q=p.oO(a,B.oc,B.IR,B.bh,new A.ath(a),"Tithes & Offering")
 j=A.al_(A.b([j,s,q,p.oO(a,B.o5,B.IX,B.ce,p.d.length===0?o:new A.ati(p,a),"Watch Live"),p.oO(a,B.o0,B.Iw,B.vS,p.gayL(),"Dashboard Panel"),p.oO(a,B.jS,B.pc,B.cE,new A.atj(a),"Books"),p.oO(a,B.nJ,B.pf,B.vT,new A.atk(a),"Contact Us")],r),!0,!0,!0)
-return A.io(o,o,A.dC(o,A.dC(o,A.akN(A.cn(A.b([l,B.cI,k,B.mj,B.ZQ,B.cI,new A.uz(new A.rn(n,16,16,1.15,o),j,o,B.a1,!1,o,o,B.w3,!0,o,o,7,B.a3,o,o,B.v,B.aj,o)],r),B.a6,B.y,B.A),o,B.a3,B.dP,o,B.a1),B.r,m,o,o,o,o,o,o,o,o,o),B.r,o,o,B.CV,o,o,o,o,o,o,o),o)},
+return A.io(o,o,A.dC(o,A.dC(o,A.akN(A.cn(A.b([l,B.cI,k,B.mj,B.ZP,B.cI,new A.uz(new A.rn(n,16,16,1.15,o),j,o,B.a1,!1,o,o,B.w3,!0,o,o,7,B.a3,o,o,B.v,B.aj,o)],r),B.a6,B.y,B.A),o,B.a3,B.dP,o,B.a1),B.r,m,o,o,o,o,o,o,o,o,o),B.r,o,o,B.CV,o,o,o,o,o,o,o),o)},
 oO(a,b,c,d,e,f){var s=null,r=A.cu(16),q=A.cu(16),p=e==null,o=p?B.jY:b
 return A.jO(A.uK(!1,q,!0,new A.bi(B.cZ,A.cn(A.b([A.a3S(o,s,A.uC(c,p?B.bZ:d,s,s),s),B.el,A.by(f,s,s,s,s,B.VQ,B.aW,s)],t.p),B.H,B.fm,B.A),s),s,!0,s,s,s,s,s,s,s,s,e,s,s,s,s),s,s,s,s,new A.bS(r,B.n))}}
 A.atl.prototype={
@@ -94096,7 +94096,7 @@ dw(){var s=this.d
 if(s!=null){s=s.f
 s===$&&A.a()
 s.fm("stopVideo")}this.kE()},
-I(a){var s,r,q=null,p=A.iP(q,B.bl,q,q,B.j,q,B.a_c,q)
+I(a){var s,r,q=null,p=A.iP(q,B.bl,q,q,B.j,q,B.a_b,q)
 if(this.e)s=B.Ez
 else{s=this.f
 if(s!=null)s=new A.bi(B.hE,A.by(s,q,q,q,q,B.Wg,B.aW,q),q)
@@ -94127,14 +94127,14 @@ return A.jO(A.uK(!1,A.cu(16),!0,A.cn(A.b([A.dC(r,A.f3(A.b([A.uC(f,B.j,r,18),B.mi
 I(a){var s,r,q,p,o,n,m=this,l=null,k="Access Bank",j="FCMB",i="LOCCIM Missions",h=A.bf(a,l,t.w).w.a.a
 if(h>1000)s=3
 else s=h>700?2:1
-r=A.iP(l,B.a4,l,l,B.j,l,B.a_9,l)
+r=A.iP(l,B.a4,l,l,B.j,l,B.a_8,l)
 q=A.aG(20,B.a4.D()>>>16&255,B.a4.D()>>>8&255,B.a4.D()&255)
 p=A.cu(14)
 o=new A.b_(A.aG(51,B.a4.D()>>>16&255,B.a4.D()>>>8&255,B.a4.D()&255),1,B.u,-1)
 p=A.dC(l,B.Gw,B.r,l,l,new A.d7(q,l,new A.dP(o,o,o,o),p,l,l,B.aC),l,l,B.HF,B.cZ,l,l,1/0)
 q=t.p
 n=A.al_(A.b([m.mP(a,"Love of Christ Chapel Int'l (God of Mercy)","0037414801",k,B.a4,B.Io,"Main Account"),m.mP(a,i,"4039184011",j,B.bh,B.pj,"Missions (Naira)"),m.mP(a,i,"4039184035",j,B.cE,B.Ir,"Missions (USD)"),m.mP(a,i,"4039184042",j,B.ih,B.IZ,"Missions (GBP)"),m.mP(a,i,"4039184059",j,B.vT,B.Ix,"Missions (EUR)"),m.mP(a,"LOCCIM Building","000000000",k,B.ce,B.Ip,"Building Fund"),m.mP(a,"LOCCIM Welfare","1122222222","UBA",B.vU,B.ph,"Welfare Fund"),m.mP(a,"LOCCIM Youth","5566778899","First Bank",B.OE,B.IB,"Youth Ministry")],q),!0,!0,!0)
-return A.io(r,B.k3,A.akN(A.cn(A.b([B.ZP,B.iU,p,new A.uz(new A.rn(s,12,12,1.05,l),n,l,B.a1,!1,l,l,B.w3,!0,l,l,8,B.a3,l,l,B.v,B.aj,l),B.cI,A.jO(B.Q_,l,B.j,1,l,l)],q),B.H,B.y,B.A),l,B.a3,B.cZ,l,B.a1),l)}}
+return A.io(r,B.k3,A.akN(A.cn(A.b([B.ZO,B.iU,p,new A.uz(new A.rn(s,12,12,1.05,l),n,l,B.a1,!1,l,l,B.w3,!0,l,l,8,B.a3,l,l,B.v,B.aj,l),B.cI,A.jO(B.Q_,l,B.j,1,l,l)],q),B.H,B.y,B.A),l,B.a3,B.cZ,l,B.a1),l)}}
 A.afc.prototype={
 $0(){A.zy(new A.pj(this.c))
 this.b.ai(t.Pu).f.lz(B.TY)
@@ -94190,7 +94190,7 @@ case 1:return A.A(q,r)
 case 2:return A.z(o.at(-1),r)}})
 return A.B($async$Ap,r)},
 I(a){var s=null
-return A.io(A.iP(s,B.a4,s,s,B.j,s,B.ZX,s),s,new A.bi(B.hE,A.cn(A.b([B.a_i,B.fE,A.by("We believe in the power of agreement. Share your burden with our intercession team.",s,s,s,s,A.f5(s,s,B.cz,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.AX,A.amb(this.d,A.NX(s,new A.fE(4,A.cu(12),B.eC),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Your Name",!0,!0,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s),1),B.iU,A.amb(this.e,A.NX(!0,new A.fE(4,A.cu(12),B.eC),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Prayer Description",!0,!0,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s),4),B.AX,A.eK(A.aI7(B.a_l,this.gao7(),A.a6X(s,s,B.a4,s,s,s,s,s,s,B.j,s,s,s,s,new A.bS(A.cu(12),B.n),s,s,s,s,s)),50,1/0)],t.p),B.a6,B.y,B.A),s),s)}}
+return A.io(A.iP(s,B.a4,s,s,B.j,s,B.ZW,s),s,new A.bi(B.hE,A.cn(A.b([B.a_i,B.fE,A.by("We believe in the power of agreement. Share your burden with our intercession team.",s,s,s,s,A.f5(s,s,B.cz,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.AX,A.amb(this.d,A.NX(s,new A.fE(4,A.cu(12),B.eC),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Your Name",!0,!0,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s),1),B.iU,A.amb(this.e,A.NX(!0,new A.fE(4,A.cu(12),B.eC),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Prayer Description",!0,!0,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s),4),B.AX,A.eK(A.aI7(B.a_l,this.gao7(),A.a6X(s,s,B.a4,s,s,s,s,s,s,B.j,s,s,s,s,new A.bS(A.cu(12),B.n),s,s,s,s,s)),50,1/0)],t.p),B.a6,B.y,B.A),s),s)}}
 A.E2.prototype={
 af(){return new A.Zj(A.p(t.S,t.y))}}
 A.Zj.prototype={
@@ -94249,7 +94249,7 @@ case 5:return A.A(null,r)
 case 1:return A.z(p.at(-1),r)}})
 return A.B($async$wg,r)},
 I(a){var s=null
-return A.io(A.iP(s,B.bl,s,s,B.j,s,B.a_b,s),s,A.AT(new A.ay4(this),this.C6(),t.j),s)}}
+return A.io(A.iP(s,B.bl,s,s,B.j,s,B.a_a,s),s,A.AT(new A.ay4(this),this.C6(),t.j),s)}}
 A.ay4.prototype={
 $2(a,b){var s,r=null
 if(b.a===B.cX)return B.cy
@@ -94283,10 +94283,10 @@ if(k>120){k=A.aEs(g,g,g,g,g,g,g,g,g,g,g,B.Tx,B.aa,g,g,g,g,B.vV,g,g)
 h.push(new A.ds(B.fY,g,g,A.aEr(A.by(n?"See Less":"See More",g,g,g,g,B.Wo,g,g),new A.axZ(e,d,n),k),g))}B.b.M(l,A.b([B.fE,A.dC(g,A.cn(h,B.a6,B.y,B.A),B.r,g,g,new A.d7(B.k3,g,g,j,g,g,B.aC),g,g,g,B.hF,g,g,1/0)],m))}l.push(B.el)
 l.push(B.H8)
 k=A.b([],m)
-if(q!=null&&q.length!==0)k.push(A.f3(A.b([A.aKz(B.Jg,B.a__,new A.ay_()),A.pY(g,g,B.pm,g,g,new A.ay0(e,q),g,g,"Download Track 1")],m),B.H,B.de,B.A,0))
+if(q!=null&&q.length!==0)k.push(A.f3(A.b([A.aKz(B.Jg,B.ZZ,new A.ay_()),A.pY(g,g,B.pm,g,g,new A.ay0(e,q),g,g,"Download Track 1")],m),B.H,B.de,B.A,0))
 else k.push(B.PY)
 k.push(B.H7)
-if(p!=null&&p.length!==0)k.push(A.f3(A.b([A.aKz(B.J9,B.a_4,new A.ay1()),A.pY(g,g,B.pm,g,g,new A.ay2(e,p),g,g,"Download Track 2")],m),B.H,B.de,B.A,0))
+if(p!=null&&p.length!==0)k.push(A.f3(A.b([A.aKz(B.J9,B.a_3,new A.ay1()),A.pY(g,g,B.pm,g,g,new A.ay2(e,p),g,g,"Download Track 2")],m),B.H,B.de,B.A,0))
 else k.push(B.PZ)
 l.push(A.cn(k,B.H,B.y,B.A))
 return A.jO(new A.bi(B.dO,A.cn(l,B.a6,B.y,B.A),g),g,g,3,B.kr,new A.bS(o,B.n))},
@@ -94394,11 +94394,11 @@ s=this.e
 s.a2$=r
 s.a0$=0
 this.aB()},
-I(a){var s=this,r=null,q=t.p,p=A.iP(A.b([A.pY(r,r,B.pl,r,r,s.gam0(),r,r,r)],q),B.a4,r,r,B.j,r,B.a_d,r),o=A.amb(s.d,A.NX(r,new A.fE(4,A.cu(12),B.eC),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Your Name",!0,!0,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r),1),n=A.amb(s.e,A.NX(!0,new A.fE(4,A.cu(12),B.eC),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"What did God do for you?",!0,!0,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r),3),m=A.a6X(r,r,B.a4,r,r,r,r,r,r,B.j,r,r,r,r,new A.bS(A.cu(12),B.n),r,r,r,r,r),l=s.f,k=l?r:s.gao8()
-m=A.eK(A.aI7(l?B.TG:B.a_7,k,m),48,1/0)
+I(a){var s=this,r=null,q=t.p,p=A.iP(A.b([A.pY(r,r,B.pl,r,r,s.gam0(),r,r,r)],q),B.a4,r,r,B.j,r,B.a_c,r),o=A.amb(s.d,A.NX(r,new A.fE(4,A.cu(12),B.eC),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Your Name",!0,!0,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r),1),n=A.amb(s.e,A.NX(!0,new A.fE(4,A.cu(12),B.eC),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"What did God do for you?",!0,!0,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r),3),m=A.a6X(r,r,B.a4,r,r,r,r,r,r,B.j,r,r,r,r,new A.bS(A.cu(12),B.n),r,r,r,r,r),l=s.f,k=l?r:s.gao8()
+m=A.eK(A.aI7(l?B.TG:B.a_6,k,m),48,1/0)
 k=s.r
 k===$&&A.a()
-return A.io(p,r,new A.bi(B.hE,A.cn(A.b([B.a_5,B.iU,o,B.el,n,B.iU,m,B.TK,B.ZN,B.el,A.fg(A.AT(new A.ayM(),k,t.j),1)],q),B.a6,B.y,B.A),r),r)}}
+return A.io(p,r,new A.bi(B.hE,A.cn(A.b([B.a_4,B.iU,o,B.el,n,B.iU,m,B.TJ,B.ZM,B.el,A.fg(A.AT(new A.ayM(),k,t.j),1)],q),B.a6,B.y,B.A),r),r)}}
 A.ayH.prototype={
 $1(a){return J.d(J.ee(a,"approved"),!0)},
 $S:119}
@@ -100592,8 +100592,8 @@ B.bZ=new A.hF(B.Og,1,0.6196078431372549,0.6196078431372549,0.6196078431372549,B.
 B.p5=new A.Nb(1,"italic")
 B.VS=new A.l(!0,B.bZ,null,null,null,null,null,null,B.p5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.aW=new A.lT(2,"center")
-B.ZS=new A.bj("No approved testimonies yet. Be the first to share!",null,B.VS,B.aW,null,null,null,null,null,null)
-B.Em=new A.df(B.z,null,null,B.ZS,null)
+B.ZR=new A.bj("No approved testimonies yet. Be the first to share!",null,B.VS,B.aW,null,null,null,null,null,null)
+B.Em=new A.df(B.z,null,null,B.ZR,null)
 B.a_m=new A.bj("No sermons uploaded yet.",null,null,null,null,null,null,null,null,null)
 B.En=new A.df(B.z,null,null,B.a_m,null)
 B.a_f=new A.bj("No Flyer",null,null,null,null,null,null,null,null,null)
@@ -100601,8 +100601,8 @@ B.Eo=new A.df(B.z,null,null,B.a_f,null)
 B.f2=new A.bl(57616,"MaterialIcons",!1)
 B.Jj=new A.bD(B.f2,60,B.j,null,null)
 B.nE=new A.df(B.z,null,null,B.Jj,null)
-B.a_e=new A.bj("No books available yet.",null,null,null,null,null,null,null,null,null)
-B.Ep=new A.df(B.z,null,null,B.a_e,null)
+B.a_d=new A.bj("No books available yet.",null,null,null,null,null,null,null,null,null)
+B.Ep=new A.df(B.z,null,null,B.a_d,null)
 B.a36=new A.aof(0,"material")
 B.EA=new A.iU(null,null,null,null,null,null,null,null,null,null)
 B.cy=new A.df(B.z,null,null,B.EA,null)
@@ -100610,8 +100610,8 @@ B.a_o=new A.bj("No upcoming church events scheduled at this time.",null,null,nul
 B.Er=new A.df(B.z,null,null,B.a_o,null)
 B.l9=new A.bD(B.f2,null,null,null,null)
 B.Es=new A.df(B.z,null,null,B.l9,null)
-B.a_2=new A.bj("The gallery is empty.",null,null,null,null,null,null,null,null,null)
-B.Eu=new A.df(B.z,null,null,B.a_2,null)
+B.a_1=new A.bj("The gallery is empty.",null,null,null,null,null,null,null,null,null)
+B.Eu=new A.df(B.z,null,null,B.a_1,null)
 B.Jh=new A.bD(B.f2,40,B.bZ,null,null)
 B.Ev=new A.df(B.z,null,null,B.Jh,null)
 B.Ew=new A.ze(null,null,null,null,null,null,null,null,null)
@@ -100740,11 +100740,11 @@ B.a4=new A.hF(B.Ox,1,0.403921568627451,0.22745098039215686,0.7176470588235294,B.
 B.Jx=new A.bD(B.IE,null,B.a4,null,null)
 B.fE=new A.cr(null,8,null,null)
 B.Xu=new A.l(!0,null,null,null,null,null,14,null,B.p5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ZD=new A.bj("\u201cGive, and it will be given to you. A good measure, pressed down, shaken together and running over, will be poured into your lap.\u201d",null,B.Xu,B.aW,null,null,null,null,null,null)
+B.ZC=new A.bj("\u201cGive, and it will be given to you. A good measure, pressed down, shaken together and running over, will be poured into your lap.\u201d",null,B.Xu,B.aW,null,null,null,null,null,null)
 B.ac=new A.h_(700)
 B.Wa=new A.l(!0,B.a4,null,null,null,null,null,B.ac,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a_0=new A.bj("\u2014 Luke 6:38",null,B.Wa,null,null,null,null,null,null,null)
-B.LH=s([B.Jx,B.fE,B.ZD,B.fE,B.a_0],t.p)
+B.a__=new A.bj("\u2014 Luke 6:38",null,B.Wa,null,null,null,null,null,null,null)
+B.LH=s([B.Jx,B.fE,B.ZC,B.fE,B.a__],t.p)
 B.Gw=new A.zA(B.a1,B.y,B.A,B.H,null,B.cs,null,0,B.LH,null)
 B.of=new A.zC(0,"none")
 B.cX=new A.zC(1,"waiting")
@@ -101272,11 +101272,11 @@ B.pB=s(["text","multiline","number","phone","datetime","emailAddress","url","vis
 B.pC=s([200,202],t.t)
 B.Kw=s([239,191,189],t.t)
 B.pD=s([304],t.t)
-B.TI=new A.cr(null,200,null,null)
+B.TH=new A.cr(null,200,null,null)
 B.fL=new A.l(!0,B.bZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a_h=new A.bj("No announcements available",null,B.fL,null,null,null,null,null,null,null)
 B.Et=new A.df(B.z,null,null,B.a_h,null)
-B.Kz=s([B.TI,B.Et],t.p)
+B.Kz=s([B.TH,B.Et],t.p)
 B.KV=s([4,9,14,19],t.t)
 B.Mt=s([137,80,78,71,13,10,26,10],t.Z)
 B.JF=new A.n6(0,"png")
@@ -102532,14 +102532,14 @@ B.lJ=new A.P2(1,"landscape")
 B.PU=new A.Cr(null)
 B.PV=new A.P5(0,"nearestOverlay")
 B.PW=new A.P5(1,"rootOverlay")
-B.ZZ=new A.bj("Live broadcast stream is active.",null,B.fL,B.aW,null,null,null,null,null,null)
-B.PX=new A.bi(B.ks,B.ZZ,null)
-B.ZK=new A.bj("No Track 1 uploaded",null,B.fL,null,null,null,null,null,null,null)
-B.PY=new A.bi(B.kr,B.ZK,null)
-B.ZL=new A.bj("No Track 2 uploaded",null,B.fL,null,null,null,null,null,null,null)
-B.PZ=new A.bi(B.kr,B.ZL,null)
-B.a_6=new A.bj("Tap any card to copy account number instantly.",null,B.fL,B.aW,null,null,null,null,null,null)
-B.Q_=new A.bi(B.cZ,B.a_6,null)
+B.ZY=new A.bj("Live broadcast stream is active.",null,B.fL,B.aW,null,null,null,null,null,null)
+B.PX=new A.bi(B.ks,B.ZY,null)
+B.ZJ=new A.bj("No Track 1 uploaded",null,B.fL,null,null,null,null,null,null,null)
+B.PY=new A.bi(B.kr,B.ZJ,null)
+B.ZK=new A.bj("No Track 2 uploaded",null,B.fL,null,null,null,null,null,null,null)
+B.PZ=new A.bi(B.kr,B.ZK,null)
+B.a_5=new A.bj("Tap any card to copy account number instantly.",null,B.fL,B.aW,null,null,null,null,null,null)
+B.Q_=new A.bi(B.cZ,B.a_5,null)
 B.wb=new A.vj(null)
 B.bN=new A.Pd(0,"fill")
 B.bw=new A.Pd(1,"stroke")
@@ -102656,13 +102656,13 @@ B.Iv=new A.bl(57689,"MaterialIcons",!1)
 B.J8=new A.bD(B.Iv,null,B.j,null,null)
 B.TD=new A.cr(10,null,null,null)
 B.cK=new A.l(!0,null,null,null,null,null,null,B.ac,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ZV=new A.bj("Request submitted successfully!",null,B.cK,null,null,null,null,null,null,null)
-B.LE=s([B.J8,B.TD,B.ZV],t.p)
+B.ZU=new A.bj("Request submitted successfully!",null,B.cK,null,null,null,null,null,null,null)
+B.LE=s([B.J8,B.TD,B.ZU],t.p)
 B.RA=new A.vK(B.ar,B.y,B.A,B.H,null,B.cs,null,0,B.LE,null)
 B.Jy=new A.bD(B.f3,null,null,null,null)
 B.mi=new A.cr(8,null,null,null)
-B.ZM=new A.bj("Video attached to this announcement",null,null,null,null,null,null,null,null,null)
-B.I3=new A.ur(1,B.hQ,B.ZM,null)
+B.ZL=new A.bj("Video attached to this announcement",null,null,null,null,null,null,null,null,null)
+B.I3=new A.ur(1,B.hQ,B.ZL,null)
 B.M1=s([B.Jy,B.mi,B.I3],t.p)
 B.RB=new A.vK(B.ar,B.y,B.A,B.H,null,B.cs,null,0,B.M1,null)
 B.RC=new A.DA(1333)
@@ -102897,21 +102897,21 @@ B.AV=new A.cr(1/0,1/0,null,null)
 B.TF=new A.cr(null,220,B.cy,null)
 B.Ey=new A.iU(2,null,null,null,null,B.j,null,null,null,null)
 B.TG=new A.cr(20,20,B.Ey,null)
-B.Jm=new A.bD(B.f2,80,B.bZ,null,null)
-B.Eq=new A.df(B.z,null,null,B.Jm,null)
-B.TH=new A.cr(null,220,B.Eq,null)
 B.cj=new A.cr(null,10,null,null)
 B.el=new A.cr(null,12,null,null)
 B.AW=new A.cr(null,15,null,null)
 B.iU=new A.cr(null,16,null,null)
 B.cI=new A.cr(null,20,null,null)
 B.AX=new A.cr(null,24,null,null)
-B.TJ=new A.cr(null,25,null,null)
-B.TK=new A.cr(null,28,null,null)
+B.TI=new A.cr(null,25,null,null)
+B.TJ=new A.cr(null,28,null,null)
 B.mj=new A.cr(null,30,null,null)
-B.TL=new A.cr(null,40,null,null)
-B.TM=new A.cr(null,4,null,null)
+B.TK=new A.cr(null,40,null,null)
+B.TL=new A.cr(null,4,null,null)
 B.mk=new A.cr(null,6,null,null)
+B.Jm=new A.bD(B.f2,80,B.bZ,null,null)
+B.Eq=new A.df(B.z,null,null,B.Jm,null)
+B.TM=new A.cr(null,300,B.Eq,null)
 B.TN=new A.Ec(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.AY=new A.Ri(0,0,0,0,0,0,!1,!1,null,0)
 B.TO=new A.rn(2,10,10,0.8,null)
@@ -102927,18 +102927,18 @@ B.TU=new A.kk(3,"hide")
 B.a32=new A.kk(4,"remove")
 B.TV=new A.kk(5,"timeout")
 B.TW=new A.w1(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ZY=new A.bj("Please fill in both fields before submitting.",null,null,null,null,null,null,null,null,null)
-B.TX=new A.it(B.ZY,B.ih,null,null,null,null,null,null,null,null,null,null,null,B.cB,!1,null,null,null,B.v,null)
-B.a_1=new A.bj("Account copied successfully",null,null,null,null,null,null,null,null,null)
-B.TY=new A.it(B.a_1,B.bh,null,null,null,null,null,null,null,null,null,null,null,B.cB,!1,null,null,null,B.v,null)
-B.ZI=new A.bj("Could not sync with server. Check local connection endpoints.",null,null,null,null,null,null,null,null,null)
-B.TZ=new A.it(B.ZI,B.ce,null,null,null,null,null,null,null,null,null,null,null,B.cB,!1,null,null,null,B.v,null)
-B.a_3=new A.bj("\ud83c\udf89 Testimony submitted successfully! Waiting for admin approval.",null,null,null,null,null,null,null,null,null)
-B.U_=new A.it(B.a_3,B.bh,null,null,null,null,null,null,null,null,null,null,null,B.cB,!1,null,null,null,B.v,null)
-B.ZF=new A.bj("Please fill in all fields before submitting.",null,null,null,null,null,null,null,null,null)
-B.U0=new A.it(B.ZF,B.ih,null,null,null,null,null,null,null,null,null,null,null,B.cB,!1,null,null,null,B.v,null)
-B.ZU=new A.bj("\ud83d\udce5 Initializing download...",null,null,null,null,null,null,null,null,null)
-B.U1=new A.it(B.ZU,null,null,null,null,null,null,null,null,null,null,null,null,B.cB,!1,null,null,null,B.v,null)
+B.ZX=new A.bj("Please fill in both fields before submitting.",null,null,null,null,null,null,null,null,null)
+B.TX=new A.it(B.ZX,B.ih,null,null,null,null,null,null,null,null,null,null,null,B.cB,!1,null,null,null,B.v,null)
+B.a_0=new A.bj("Account copied successfully",null,null,null,null,null,null,null,null,null)
+B.TY=new A.it(B.a_0,B.bh,null,null,null,null,null,null,null,null,null,null,null,B.cB,!1,null,null,null,B.v,null)
+B.ZH=new A.bj("Could not sync with server. Check local connection endpoints.",null,null,null,null,null,null,null,null,null)
+B.TZ=new A.it(B.ZH,B.ce,null,null,null,null,null,null,null,null,null,null,null,B.cB,!1,null,null,null,B.v,null)
+B.a_2=new A.bj("\ud83c\udf89 Testimony submitted successfully! Waiting for admin approval.",null,null,null,null,null,null,null,null,null)
+B.U_=new A.it(B.a_2,B.bh,null,null,null,null,null,null,null,null,null,null,null,B.cB,!1,null,null,null,B.v,null)
+B.ZE=new A.bj("Please fill in all fields before submitting.",null,null,null,null,null,null,null,null,null)
+B.U0=new A.it(B.ZE,B.ih,null,null,null,null,null,null,null,null,null,null,null,B.cB,!1,null,null,null,B.v,null)
+B.ZT=new A.bj("\ud83d\udce5 Initializing download...",null,null,null,null,null,null,null,null,null)
+B.U1=new A.it(B.ZT,null,null,null,null,null,null,null,null,null,null,null,null,B.cB,!1,null,null,null,B.v,null)
 B.B_=new A.Eh(0,"permissive")
 B.U2=new A.Eh(1,"normal")
 B.U3=new A.Eh(2,"forced")
@@ -103328,37 +103328,37 @@ B.Y5=new A.l(!0,B.S,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.Yr=new A.l(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.i,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.Vf=new A.l(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.i,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.Zz=new A.dW(B.Xf,B.W3,B.Xg,B.XL,B.VF,B.VN,B.Ws,B.XG,B.WG,B.Y8,B.V8,B.Vq,B.Y5,B.Yr,B.Vf)
-B.ZA=new A.bj("Announcements v2 TEST",null,null,null,null,null,null,null,null,null)
 B.WA=new A.l(!0,B.bZ,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ZB=new A.bj("We are always available to connect with you",null,B.WA,null,null,null,null,null,null,null)
+B.ZA=new A.bj("We are always available to connect with you",null,B.WA,null,null,null,null,null,null,null)
 B.Wd=new A.l(!0,B.j,null,null,null,null,20,B.ac,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ZC=new A.bj("LOCCIM Ministries",null,B.Wd,null,null,null,null,null,null,null)
+B.ZB=new A.bj("LOCCIM Ministries",null,B.Wd,null,null,null,null,null,null,null)
 B.VX=new A.l(!0,B.j,null,null,null,null,30,B.ac,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ZE=new A.bj("Love of Christ Church\nInternational Ministry",null,B.VX,null,null,null,null,null,null,null)
-B.ZG=new A.bj("WATCH LIVE",null,null,null,null,null,null,null,null,null)
-B.ZH=new A.bj("Contact LOCCIM",null,null,null,null,null,null,null,null,null)
-B.ZJ=new A.bj("About Us",null,null,null,null,null,null,null,null,null)
+B.ZD=new A.bj("Love of Christ Church\nInternational Ministry",null,B.VX,null,null,null,null,null,null,null)
+B.ZF=new A.bj("WATCH LIVE",null,null,null,null,null,null,null,null,null)
+B.ZG=new A.bj("Contact LOCCIM",null,null,null,null,null,null,null,null,null)
+B.ZI=new A.bj("About Us",null,null,null,null,null,null,null,null,null)
 B.XM=new A.l(!0,B.a4,null,null,null,null,18,B.ac,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ZN=new A.bj("Recent Testimonies",null,B.XM,null,null,null,null,null,null,null)
-B.ZO=new A.bj("LOCCIM Ministries responds to all inquiries within 24 hours.",null,null,B.aW,null,null,null,null,null,null)
+B.ZM=new A.bj("Recent Testimonies",null,B.XM,null,null,null,null,null,null,null)
+B.ZN=new A.bj("LOCCIM Ministries responds to all inquiries within 24 hours.",null,null,B.aW,null,null,null,null,null,null)
 B.mv=new A.l(!0,null,null,null,null,null,20,B.ac,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ZP=new A.bj("Church Account Dashboard",null,B.mv,null,null,null,null,null,null,null)
-B.ZQ=new A.bj("Church Ministries & Tools",null,B.Bv,null,null,null,null,null,null,null)
-B.ZR=new A.bj("\ud83d\udcf8 Media Gallery Vault",null,null,null,null,null,null,null,null,null)
-B.ZT=new A.bj("Current Broadcast",null,null,null,null,null,null,null,null,null)
+B.ZO=new A.bj("Church Account Dashboard",null,B.mv,null,null,null,null,null,null,null)
+B.ZP=new A.bj("Church Ministries & Tools",null,B.Bv,null,null,null,null,null,null,null)
+B.ZQ=new A.bj("\ud83d\udcf8 Media Gallery Vault",null,null,null,null,null,null,null,null,null)
+B.ZS=new A.bj("Current Broadcast",null,null,null,null,null,null,null,null,null)
 B.V1=new A.l(!0,B.Q,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ZW=new A.bj("Raising Disciples \u2022 Restoring Lives \u2022 Impacting Communities",null,B.V1,null,null,null,null,null,null,null)
-B.ZX=new A.bj("Prayer Requests",null,null,null,null,null,null,null,null,null)
-B.a__=new A.bj("Play Track 1",null,null,null,null,null,null,null,null,null)
-B.a_4=new A.bj("Play Track 2",null,null,null,null,null,null,null,null,null)
-B.a_5=new A.bj("Share God's Goodness",null,B.mv,null,null,null,null,null,null,null)
-B.a_7=new A.bj("Publish Testimony",null,B.cK,null,null,null,null,null,null,null)
-B.a_8=new A.bj("CONTACT",null,null,null,null,null,null,null,null,null)
-B.a_9=new A.bj("Tithes & Offerings",null,null,null,null,null,null,null,null,null)
-B.a_a=new A.bj("\u2728 Upcoming Church Events",null,null,null,null,null,null,null,null,null)
-B.a_b=new A.bj("\ud83d\udcda Sermon Archive & Media",null,null,null,null,null,null,null,null,null)
-B.a_c=new A.bj("\ud83d\udcf9 LOCCIM Live Stream",null,null,null,null,null,null,null,null,null)
-B.a_d=new A.bj("Share Testimony",null,null,null,null,null,null,null,null,null)
+B.ZV=new A.bj("Raising Disciples \u2022 Restoring Lives \u2022 Impacting Communities",null,B.V1,null,null,null,null,null,null,null)
+B.ZW=new A.bj("Prayer Requests",null,null,null,null,null,null,null,null,null)
+B.ZZ=new A.bj("Play Track 1",null,null,null,null,null,null,null,null,null)
+B.a_3=new A.bj("Play Track 2",null,null,null,null,null,null,null,null,null)
+B.a_4=new A.bj("Share God's Goodness",null,B.mv,null,null,null,null,null,null,null)
+B.a_6=new A.bj("Publish Testimony",null,B.cK,null,null,null,null,null,null,null)
+B.a_7=new A.bj("CONTACT",null,null,null,null,null,null,null,null,null)
+B.a_8=new A.bj("Tithes & Offerings",null,null,null,null,null,null,null,null,null)
+B.a_9=new A.bj("\u2728 Upcoming Church Events",null,null,null,null,null,null,null,null,null)
+B.a_a=new A.bj("\ud83d\udcda Sermon Archive & Media",null,null,null,null,null,null,null,null,null)
+B.a_b=new A.bj("\ud83d\udcf9 LOCCIM Live Stream",null,null,null,null,null,null,null,null,null)
+B.a_c=new A.bj("Share Testimony",null,null,null,null,null,null,null,null,null)
+B.a_e=new A.bj("Announcements",null,null,null,null,null,null,null,null,null)
 B.a_g=new A.bj("Books & Resources",null,null,null,null,null,null,null,null,null)
 B.a_i=new A.bj("Submit Your Prayer Request",null,B.mv,null,null,null,null,null,null,null)
 B.Wl=new A.l(!0,B.j,null,null,null,null,12,B.ac,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
